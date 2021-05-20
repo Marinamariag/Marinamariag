@@ -3,8 +3,6 @@
 
 I'm a student of information systems!
 
-<img src="">
-
 - :palm_tree: I’m from Rio de Janeiro, Brazil
 - :books: I’m currently learning JavaScript and Angular
 - :purple_heart: Passionate about front-end and design

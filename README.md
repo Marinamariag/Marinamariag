@@ -1,10 +1,10 @@
 <h1>Hello! I'm Marina :relaxed: </h1>
 
 
-I'm a student of information systems!
+I'm a student of Front-end Web Development!
 
-- :palm_tree: I’m from Rio de Janeiro, Brazil
-- :books: I’m currently learning JavaScript and Angular
+- :palm_tree: I’m from Rio de Janeiro, Brazil and i'm living in Lisbon, Portugal.
+- :books: I’m currently learning JavaScript
 - :purple_heart: Passionate about front-end and design
 
 <h2> Where to find me </h2>

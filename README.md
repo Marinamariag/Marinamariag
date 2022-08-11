@@ -4,7 +4,7 @@
 I'm a student of Front-end Web Development!
 
 - :palm_tree: I’m from Rio de Janeiro, Brazil and i'm living in Lisbon, Portugal.
-- :books: I’m currently learning JavaScript
+- :books: I’m currently learning JavaScript and React
 - :purple_heart: Passionate about front-end and design
 
 <h2> Where to find me </h2>
